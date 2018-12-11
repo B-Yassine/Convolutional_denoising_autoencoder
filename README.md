@@ -8,7 +8,7 @@ Before running the convolutional_denoising_autoencoder.py check that you have al
 
 Once you are good to go simply run:
       
-            Python convolutional_denoising_autoencoder.py
+      Python convolutional_denoising_autoencoder.py
             
 For more detailed informations check this course available for free on YouTube from Hugo Larochelle:
 https://www.youtube.com/watch?v=t2NQ_c5BFOc
